@@ -1,4 +1,4 @@
-# schedule_task
+# schedule_task 任务接收 通过mqtt进行调度控制
 
 A new Flutter project.
 
